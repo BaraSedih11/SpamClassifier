@@ -27,7 +27,6 @@ The Spam Classifier is a project aimed at detecting spam messages using natural 
 ## Contents
 
 - `SpamClassifier.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
-- `data.csv`: Sample dataset used in the notebook for demonstration purposes.
 - `README.md`: This file providing an overview of the repository.
 
 

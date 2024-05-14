@@ -48,7 +48,7 @@ pip install numpy pandas scikit-learn matplotlib
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/BaraSedih11/SpamClassifier-learn.git
+git clone https://github.com/BaraSedih11/SpamClassifier.git
 ```
 
 2. Navigate to the repository directory:

@@ -7,7 +7,7 @@
 [![Pip Version](https://img.shields.io/badge/pip-21.0-orange)](https://pypi.org/project/pip/21.0/)
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/SpamClassifier/main)
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih/SpamClassifier/releases/tag/v1.0.0)
-[![Contributors](https://img.shields.io/github/contributors/BaraSedih11/SpamClassifier)](https://github.com/BaraSedih11/bazar.com/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/BaraSedih11/SpamClassifier)](https://github.com/BaraSedih11/SpamClassifier/graphs/contributors)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/SpamClassifier)
   
 </div>

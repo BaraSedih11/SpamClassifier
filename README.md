@@ -1,4 +1,7 @@
-# Spam Classifier
+<div align=center>
+  
+  ![Spam_Classifier](https://github.com/BaraSedih11/SpamClassifier/assets/98843912/c1334184-7a07-4e73-ac38-cd15c732f226)
+</div>
 
 This repository contains a simple spam classifier built using machine learning techniques.
 

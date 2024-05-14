@@ -24,3 +24,48 @@ The Spam Classifier is a project aimed at detecting spam messages using natural 
 - Implements various NLP techniques such as tokenization, TF-IDF vectorization, and classification algorithms.
 - Provides easy-to-use scripts for training the model and evaluating its performance.
 
+## Contents
+
+- `SpamClassifier.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
+- `data.csv`: Sample dataset used in the notebook for demonstration purposes.
+- `README.md`: This file providing an overview of the repository.
+
+
+## Requirements
+To run the code in the Jupyter Notebook, you need to have Python installed on your system along with the following libraries:
+
+* NumPy
+* pandas
+* scikit-learn
+* matplotlib
+You can install these libraries using pip:
+
+```bash
+pip install numpy pandas scikit-learn matplotlib
+```
+
+## Usage
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/BaraSedih11/SpamClassifier-learn.git
+```
+
+2. Navigate to the repository directory:
+
+```bash
+cd SpamClassifier
+```
+
+3. Open and run the Jupyter Notebook `SpamClassifier.ipynb` using Jupyter Notebook or JupyterLab.
+
+4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
+
+
+## Acknowledgements
+
+- [scikit-learn](https://scikit-learn.org/): The scikit-learn library for machine learning in Python.
+- [NumPy](https://numpy.org/): The NumPy library for numerical computing in Python.
+- [pandas](https://pandas.pydata.org/): The pandas library for data manipulation and analysis in Python.
+- [matplotlib](https://matplotlib.org/): The matplotlib library for data visualization in Python.

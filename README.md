@@ -26,7 +26,7 @@ The Spam Classifier is a project aimed at detecting spam messages using natural 
 
 ## Contents
 
-- `SpamClassifier.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
+- `Bayesian_Inference.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
 - `README.md`: This file providing an overview of the repository.
 
 
@@ -57,7 +57,7 @@ git clone https://github.com/BaraSedih11/SpamClassifier.git
 cd SpamClassifier
 ```
 
-3. Open and run the Jupyter Notebook `SpamClassifier.ipynb` using Jupyter Notebook or JupyterLab.
+3. Open and run the Jupyter Notebook `Bayesian_Inference.ipynb` using Jupyter Notebook or JupyterLab.
 
 4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
 
